@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Mumbai"
   date_start = "2020-01-21"
   date_end = "2020-01-25"
-  description = """Organised by Massachusetts Institute of Technology(MIT) India Inititiative and WeSchool, selected in Investigation and Journalism: Telling Tangible Tales. Exposed to journalistic documentation practices such as interviewing, photo-documentation and data collection and they created artifacts that are playful, responsive and tells stories.
+  description = """* Organised by Massachusetts Institute of Technology(MIT) India Inititiative and WeSchool, selected in Investigation and Journalism: Telling Tangible Tales. Exposed to journalistic documentation practices such as interviewing, photo-documentation and data collection and they created artifacts that are playful, responsive and tells stories.
 * MENopoly, how hard can it be, a board game which is a manifestation of various stages of life that a person goes through and presents a stark contrast between how they affect the male and female players differently, representing the realities of today's era. As the players are subjected to a myriad pf life situations, its ups and own and the culmination of the journey, they are left with a lasting impact."""
 
 [[experience]]
