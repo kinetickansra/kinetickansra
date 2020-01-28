@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "New Delhi"
   date_start = "2018-09-08"
-  date_end = "2016-10-31"
+  date_end = "2018-10-31"
   description = """Redesigned bus shelters to improve information availability and creating an user-friendly application to provide users with real-time information regarding bus routes,timings and much more by which aimed to enhance UX for Delhi’s local bus commuters."""
 
 +++
