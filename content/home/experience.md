@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Delegate"
+  company = "Delhi Design Innovation Boot Camp(DDIBC)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "New Delhi"
+  date_start = "2018-09-08"
+  date_end = "2016-10-31"
+  description = """Redesigned bus shelters to improve information availability and creating an user-friendly application to provide users with real-time information regarding bus routes,timings and much more by which aimed to enhance UX for Delhi’s local bus commuters."""
 
 +++
