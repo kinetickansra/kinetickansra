@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   location = "New Delhi"
   date_start = "2019-06-06"
   date_end = "2019-08-23"
-  description = """* Selected as an undergraduate researcher at Celestini Project India 2019.
-  * Built a solution to tackle harassment against females using mobile microphone. Working on extracting real-time audio data feature extraction(MFCCs) using sliding windowing technique and building Machine Learning and Deep Learning models in TensorFlow to detect distress situations and deploying it in an android application using TensorflowLite and Firebase MLkit.
+  description = """ * Selected as an undergraduate researcher at Celestini Project India 2019.
+* Built a solution to tackle harassment against females using mobile microphone. Working on extracting real-time audio data feature extraction(MFCCs) using sliding windowing technique and building Machine Learning and Deep Learning models in TensorFlow to detect distress situations and deploying it in an android application using TensorflowLite and Firebase MLkit.
 * Celestini Project is sponsored by IIT Delhi, The Marconi Society and Google. """
 
 [[experience]]
