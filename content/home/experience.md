@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Participant"
-  company = "Design, Technology, and Social Innovation Workshop 2020"
-#  company = "Massachusetts Institute of Technology(MIT) India Inititivative and S.P Mandali's We School
+  company = "Design, Technology, and Social Innovation Workshop 2020, Massachusetts Institute of Technology(MIT) India Inititivative and S.P Mandali's We School"
+#  company = "
   company_url = ""
   location = "Mumbai"
   date_start = "2020-01-21"
