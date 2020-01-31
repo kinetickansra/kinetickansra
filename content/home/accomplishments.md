@@ -19,24 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "ESYA 2018, IIIT Delhi"
+  organization_url = ""
+  title = "Runner up, Design360"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://drive.google.com/open?id=1z6nrDa0itjG365UhAF4wBykn4gt-dAgr"
+  date_start = "2018-08-18"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "IGDTUW-HACKS - Paytm Build for INDIA 2019"
+  organization_url = ""
+  title = "2nd Runner up"
+  url = ""
+  certificate_url = "https://drive.google.com/open?id=1AlxB0JQc8E5D_wOVNfNyNl5e-qM_TIdh"
+  date_start = "2019-06-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
+ # description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
   organization = "DataCamp"
