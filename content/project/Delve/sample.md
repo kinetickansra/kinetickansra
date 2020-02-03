@@ -13,7 +13,7 @@ summary = "Application to counter occupational incognizance"
 tags = ["UI/UX"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.figma.com/proto/qDAGZKo4rx1zFAnm6DWI3n/Delve?node-id=10%3A466&scaling=min-zoom"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -27,7 +27,7 @@ slides = ""
 url_pdf = ""
 url_slides = "https://docs.google.com/presentation/d/1138LIKlKqT6rPmaLYDgSMyJgcfJ4lkfWqsVvbkKM0QE/edit?usp=sharing"
 url_video = "https://www.youtube.com/watch?v=Lt9eQmntNy4"
-url_code = ""
+url_code = "https://www.figma.com/proto/qDAGZKo4rx1zFAnm6DWI3n/Delve?node-id=10%3A466&scaling=min-zoom"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
