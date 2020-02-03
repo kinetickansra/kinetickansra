@@ -10,7 +10,7 @@ summary = "Application to counter occupational incognizance"
 # In a world full of numerous jobs and even more titles for them, the masses are still not aware about the diverse amount of professions.
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["UI/UX"]
+tags = ["uiux"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -37,11 +37,11 @@ url_code = "https://www.figma.com/proto/qDAGZKo4rx1zFAnm6DWI3n/Delve?node-id=10%
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Delve"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Smart"
 +++
 
 # Sponsored by DOE ARPA-E GENI Program
