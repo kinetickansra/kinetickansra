@@ -12,7 +12,7 @@ In a world full of numerous jobs and even more titles for them, the masses are s
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["UI UX"]
+tags = ["UI/UX"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.figma.com/proto/qDAGZKo4rx1zFAnm6DWI3n/Delve?node-id=10%3A466&scaling=min-zoom"
