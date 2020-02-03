@@ -6,9 +6,9 @@ title = "Delve - Explore. Acquire. Contribute"
 date = 2018-12-20T00:00:00
 
 # Project summary to display on homepage.
-summary = "Application to counter occupational incognizance   
-In a world full of numerous jobs and even more titles for them, the masses are still not aware about the diverse amount of professions.
-"
+summary = "Application to counter occupational incognizance"
+# In a world full of numerous jobs and even more titles for them, the masses are still not aware about the diverse amount of professions.
+"=
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -43,7 +43,7 @@ url_code = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = ""
 +++
 
 # Sponsored by DOE ARPA-E GENI Program
