@@ -42,8 +42,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "MIT India Initiative"
   organization_url = ""
-  title = "Selected for MIT India Initiative: Design, Technology and Social Innovation
-Workshop 2020"
+  title = "Selected for MIT India Initiative: Design, Technology and Social Innovation Workshop 2020"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1ENQhGm5ia_0f7myjtAlTmZGBILtHRXC4/view?usp=sharing"
   date_start = "2020-01-20"
