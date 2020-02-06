@@ -40,13 +40,14 @@ date_format = "Jan 2006"
  # description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "MIT India Initiative"
+  organization_url = ""
+  title = "Selected for MIT India Initiative: Design, Technology and Social Innovation
+Workshop 2020"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://drive.google.com/file/d/1ENQhGm5ia_0f7myjtAlTmZGBILtHRXC4/view?usp=sharing"
+  date_start = "2020-01-20"
+  date_end = ""
   description = ""
 
 +++
