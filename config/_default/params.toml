@@ -82,11 +82,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "kinetickansra@gmail.com"
-phone = "+919873323412"
+#phone = "+919873323412"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Adarsh Nagar", city = "New Delhi", region = "", postcode = "110033", country = "India", country_code = "IN"}
+#address = {street = "Adarsh Nagar", city = "New Delhi", region = "", postcode = "110033", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -106,7 +106,7 @@ address = {street = "Adarsh Nagar", city = "New Delhi", region = "", postcode = 
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/bhrigukansra"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live:bhrigukansra"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live:bhrigukansra"},
   {icon = "linkedin", icon_pack = "fab", name = "Connect with me", link = "https://www.linkedin.com/in/bhrigukansra/"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
