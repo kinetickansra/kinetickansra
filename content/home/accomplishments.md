@@ -49,4 +49,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Celestini India Program"
+  organization_url = ""
+  title = "Intern"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1kNk7mwfGjim9Ry6kcm3YqonO4HRMtJeG/view?usp=sharing"
+  date_start = "2019-06-01"
+  date_end = "2019-10-21"
+  description = ""
+ # description = "Formulated informed blockchain models, hypotheses, and use cases."
+
 +++
