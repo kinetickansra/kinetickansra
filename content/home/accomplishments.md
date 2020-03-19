@@ -59,5 +59,25 @@ date_format = "Jan 2006"
   date_end = "2019-10-21"
   description = ""
  # description = "Formulated informed blockchain models, hypotheses, and use cases."
+ 
+ [[item]]
+  organization = "DTU Vihaan 2.0 Design-o-thon 2019"
+  organization_url = ""
+  title = "2nd Runner Up"
+  url = ""
+  certificate_url = "https://drive.google.com/open?id=17WYZxDhrfKcCOFrI0m_rwSeob4R9fmeb"
+  date_start = "2019-02-09"
+  date_end = ""
+  description = ""
+  
+   [[item]]
+  organization = "BLENDIT Amity Cyber Cup"
+  organization_url = ""
+  title = "2nd Runner Up"
+  url = ""
+  certificate_url = "https://drive.google.com/open?id=1sp_tiEptoR17w2BRVYS1bmjViBfcgOuf"
+  date_start = "2019-01-08"
+  date_end = ""
+  description = ""
 
 +++
