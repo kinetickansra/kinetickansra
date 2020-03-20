@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'kinetickansra@gmail.com'  # For a direct email link, use "kinetickansra@gmail.com".
+  link: 'bhrigukansra98@gmail.com'  # For a direct email link, use "bhrigukansra98@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bhrigukansra
@@ -65,7 +65,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kinetickansra@gmail.com"
+email: "bhrigukansra98@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
