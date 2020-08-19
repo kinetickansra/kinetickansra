@@ -8,6 +8,6 @@ abstract: "The use of data-hungry deep learning algorithms to augment the perfor
 featured: true
 publication: "Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering"
 url_pdf: "https://conf.researchr.org/details/ase-2020/ase-2020-student-research-competition/1/CrossPriv-User-Privacy-Preservation-Model-for-Cross-Silo-Federated-Software"
-doi: "00000000f"
+doi: "10.1145/3324884.3418911"
 ---
 
