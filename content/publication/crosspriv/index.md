@@ -10,6 +10,8 @@ publication: "Proceedings of 35th IEEE/ACM International Conference on Automated
 url_pdf: "https://conf.researchr.org/details/ase-2020/ase-2020-student-research-competition/1/CrossPriv-User-Privacy-Preservation-Model-for-Cross-Silo-Federated-Software"
 doi: "10.1145/3324884.3418911"
 url_code: "https://github.com/harshitadd/CrossPriv"
+url_poster: 'https://github.com/kinetickansra/kinetickansra/blob/master/content/publication/crosspriv/crossprivPoster.pdf'
 
+#  url_dataset: '#'
 ---
 
