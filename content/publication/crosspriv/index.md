@@ -8,9 +8,10 @@ abstract: "The use of data-hungry deep learning algorithms to augment the perfor
 featured: true
 publication: "Proceedings of 35th IEEE/ACM International Conference on Automated Software Engineering"
 url_pdf: "https://conf.researchr.org/details/ase-2020/ase-2020-student-research-competition/1/CrossPriv-User-Privacy-Preservation-Model-for-Cross-Silo-Federated-Software"
-doi: "10.1145/3324884.3418911"
+url_poster: "https://drive.google.com/file/d/1I_4SxXjzMMc4EQGgFAXarWZqr7gI4CXH/view?usp=sharing"
 url_code: "https://github.com/harshitadd/CrossPriv"
-url_poster: 'https://github.com/kinetickansra/kinetickansra/blob/master/content/publication/crosspriv/crossprivPoster.pdf'
+url_video: "https://youtu.be/GXPHPQ-2apw"
+doi: "10.1145/3324884.3418911"
 
 #  url_dataset: '#'
 ---
