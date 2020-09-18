@@ -14,7 +14,7 @@ role: Undergrad Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Maharaja Agrasen Institute of Technology
+- name: Guru Gobind Singh Indraprastha University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,7 +24,7 @@ interests:
 - Human Computer Interaction
 - ASR systems
 - Federated Learning
-- Computer Vision
+
 
 education:
   courses:
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a Junior year undergrad interested in Federated Learning, ASR systems, HCI. I recently completed my research internship at IIT Delhi under The Marconi Society's Celestini India Program where I worked on developing a solution to increase women safety by detection distress situation in audio signals on mobile platforms.
+I'm a Senior year undergrad interested in Federated Learning, ASR systems, HCI. I completed my research internship at IIT Delhi under The Marconi Society's Celestini India Program where I worked on developing a solution to increase women safety by detection distress situation in audio signals on mobile platforms.
 
-When I'm not working on my laptop, you're likely to find me reading novels, playing flute, or making coffee.
+When I'm not working on my laptop, you're likely to find me reading novels or making coffee.
