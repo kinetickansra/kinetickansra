@@ -13,7 +13,7 @@ subtitle = ""
 weight = 35
 
 +++
-
+* __Dec 2020__: Selected for [BlockFITS: A Federated Data Augmentation Modelling for Blockchain Based IoVT Systems accepted in 4TH INTERNATIONAL CONFERENCE ON INNOVATIVE COMPUTING AND COMMUNICATION (ICICC 2021)](https://github.com/kinetickansra/kinetickansra/blob/master/static/files/blockfits.pdf)
 * __Aug 2020__: Attended [Resource-aware Machine Learning - 5th International Summer School 2020 by TU Dortmund, Germany(Virtual)](https://www-ai.cs.tu-dortmund.de/summer-school-2020/)
 * __Aug 2020__: CrossPriv: User Privacy Preservation Model for Cross-Silo Federated Software accepted for proceedings of the The 35th IEEE/ACM International Conference on Automated Software Engineering .
 * __Aug 2019__: Selected for [MIT India Initiative: Design, Technology and Social Innovation Workshop](https://www.indiainitiative.mit.edu/results)
